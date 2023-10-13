@@ -1,1 +1,1 @@
-# CS291A_Proj1
+Ruby tutorial project for CS291A F23
